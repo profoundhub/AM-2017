@@ -81,10 +81,6 @@
 
 						<!-- Panel -->
 							<section class="panel">
-								<div class="intro color2">
-									<h2 class="major">TURKEY FEST</h2>
-									<p>Turkey Feast Game Play Instructions : Catch as many Turkeys as you possible can within a specified time. Try to beat the highest score!!!</p>
-								</div>
 								<div class="gallery">
 									<div class="group span-3">
 										<a href="images/am-creative-1.jpg" class="image filtered span-3" data-position="bottom"><img src="images/am-creative-1.jpg" alt="" /></a>
