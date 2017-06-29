@@ -39,6 +39,7 @@
 							</section>
 
 						<!-- Panel (Spotlight) -->
+						
 							<section class="panel spotlight medium right" id="first">
 								<div class="content span-7">
 									<!-- <h2 class="major">Who is America Luigi?</h2>
@@ -70,11 +71,11 @@
 						<!-- Panel (Spotlight) -->
 							<section class="panel spotlight large left">
 								<div class="content span-5">
-									<h2 class="major">SPINNING PIZZA</h2>
-									<p>Introducing America Luigi's Spinning Pizza. Collect as many correct ingredients as you can with a Spinning Pizza, but watch out for the fans!</p>
+									<!-- <h2 class="major">SPINNING PIZZA</h2>
+									<p>Introducing America Luigi's Spinning Pizza. Collect as many correct ingredients as you can with a Spinning Pizza, but watch out for the fans!</p> -->
 								</div>
 								<div class="image filtered tinted" data-position="top right">
-									<img src="images/pizza-1.jpg" alt="" />
+									<img src="images/AM-Pics-3.jpg" alt="" />
 								</div>
 							</section>
 
