@@ -125,7 +125,11 @@
       <section class="panel color4-alt">
         <div class="intro color4">
           <h2 class="major">Contact Us</h2>
+<<<<<<< HEAD
           <p>America Luigi is a a fictional chef on YouTube with 2 mini me's Squeegee & Weegee.</p>
+=======
+          <p>America Luigi is a a fictional chef on YouTube with 2 mini me's Squeegee & Weegee brought to live in March 2014 in Toronto, Ontario, Canada.</p>
+>>>>>>> 8da3e03fee0bbae742b52d20b40e88086b4665d8
         </div>
         <div class="inner columns divided">
           <div class="span-3-25">
